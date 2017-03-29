@@ -1,2 +1,3 @@
 # Corona-Game-functions
-Example game functions for Corona SDK 
+Example game functions written in Lua, for the Corona SDK.
+
